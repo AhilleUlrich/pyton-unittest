@@ -1,1 +1,1 @@
-Test et retest
+pytest --junitxml test-results.xml "temp.py"
